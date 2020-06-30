@@ -1,4 +1,4 @@
-# iosgamedata_compare
+# comparedata_frontend
 
 ## Project setup
 ```
